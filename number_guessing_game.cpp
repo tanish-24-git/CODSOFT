@@ -9,7 +9,7 @@ int main() {
     int guess = 0;
     
 
-    cout << "************Welcome to the Number Guessing Game!**************\n";
+    cout << "Welcome to the Number Guessing Game!\n";
     cout << "I have selected a number between 1 and 100.\n";
     cout << "Try to guess the number.\n";
 
