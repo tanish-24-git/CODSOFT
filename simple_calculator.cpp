@@ -26,7 +26,7 @@ void division(int a,int b)
 
 int main()
 {
-    cout<<"************** welcome to calculator ****************";
+    cout<<"welcome to calculator";
     cout<<endl<<" *you can perform* ";
 
     cout<<endl<<"1.addition"<<endl;
